@@ -33,7 +33,7 @@ WorkCode é um conjunto de pequenos e otimizados componentes PHP para tarefas co
 Router is available via Composer:
 
 ```bash
-"workcode/wcrouter": "1.0.*"
+"workcode/wcrouter": "v1.0.*"
 ```
 
 or run
