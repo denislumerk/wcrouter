@@ -1,0 +1,28 @@
+{
+  "name": "workcode/wcrouter",
+  "description": "A classic WorkCode Router is easy, fast and extremely uncomplicated. Create and manage your routes in minutes!",
+  "keywords": [
+    "WorkCode",
+    "Work Code",
+    "Router",
+    "Route",
+    "Routes"
+  ],
+  "homepage": "http://www.innovatistech.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Denis Lumerk",
+      "email": "denislumerk@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "WorkCode\\Router\\": "src"
+    }
+  }
+}
